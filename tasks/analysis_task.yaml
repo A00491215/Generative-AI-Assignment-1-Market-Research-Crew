@@ -1,0 +1,7 @@
+description: >
+  Analyze the research and generate an executive summary,
+  SWOT analysis, and strategic recommendations.
+expected_output: >
+  A professional strategic market research report in Markdown.
+agent: analyst
+output_file: output/company_report.md

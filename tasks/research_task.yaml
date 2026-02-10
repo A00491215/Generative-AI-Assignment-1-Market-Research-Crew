@@ -1,0 +1,7 @@
+description: >
+  Use the web search tool to research the company using its domain.
+  Collect company overview, products/services, target market,
+  recent news, and competitors.
+expected_output: >
+  A structured factual research summary.
+agent: researcher
